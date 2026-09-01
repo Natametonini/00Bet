@@ -1,6 +1,5 @@
 # 00Bet -- Versão 1.0
 ![GitHub repo size](https://img.shields.io/github/repo-size/natametonini/00Bet?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/natametonini/00Bet?style=for-the-badge)
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/natametonini/00Bet?style=for-the-badge)
 
 
