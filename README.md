@@ -1,9 +1,8 @@
 # 00Bet -- Versão 1.0
-![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/iuricode/README-template?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/natametonini/00Bet?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/natametonini/00Bet?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/natametonini/00Bet?style=for-the-badge)
+
 
 ## 📄 Descrição
 Este é um projeto para a matéria de Projeto Integrado de Sistemas de Informação para Negócios da faculdade UNICEPLAC. 
